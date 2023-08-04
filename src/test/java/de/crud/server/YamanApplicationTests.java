@@ -1,0 +1,13 @@
+package de.crud.server;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class YamanApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
