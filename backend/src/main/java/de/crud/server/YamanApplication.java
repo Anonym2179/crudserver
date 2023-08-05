@@ -11,7 +11,3 @@ public class YamanApplication {
 	}
 
 }
-
-
-
-//einfachmal zum abfucken und gucken mois
